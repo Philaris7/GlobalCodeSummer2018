@@ -1,0 +1,7 @@
+{'urlToImage': 'https://ichef.bbci.co.uk/news/1024/branded_news/1F0D/production/_101794970_gettyimages-959428218.jpg',
+ 'source': {'name': 'BBC News', 'id': 'bbc-news'},
+ 'description': 'Tempted to join the Bitcoin bandwagon? Be careful - it could be a one-way ticket to addiction.', 
+'title': 'Bitcoin rehab', 
+'author': 'https://www.facebook.com/bbcnews', 
+'publishedAt': '2018-05-29T13:06:48Z', 
+'url': 'http://www.bbc.co.uk/news/uk-scotland-44289772'}
